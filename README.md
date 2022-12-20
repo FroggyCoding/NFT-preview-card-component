@@ -8,7 +8,7 @@
 
 - Challenge: [NFT preview card component](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U)
 
-- Solution: [My solution](https://froggycoding.github.io/nft-preview-card-component/)
+- Solution: [My solution](https://froggycoding.github.io/NFT-preview-card-component/)
 
 ### Built with
 
